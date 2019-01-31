@@ -1,0 +1,42 @@
+.titre{
+	color: black;
+}
+#footer{
+	color: #fff;
+	font-size: 20px;
+	font-family: cursive;
+	position: relative;
+	top: 12px;
+	left: 10px;
+}
+#copy{
+	color: #fff;
+	font-family: cursive;
+}
+#image{
+	height: 94%;
+	width: 100%;
+
+}
+.radio {
+	position:relative;
+	left: 50px;
+}
+#button{
+	position: relative;
+	top: 20px;
+	left: 45%;
+}
+h3{
+	color: black;
+	margin: 0;
+	padding: 0;
+	position: relative;
+	bottom: 150px;
+}
+.jumbotron{
+	 background-color: #9e1030;
+}
+p,h2,label{
+	color: #fff;
+}
